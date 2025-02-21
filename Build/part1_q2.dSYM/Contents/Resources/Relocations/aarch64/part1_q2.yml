@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nguyenmaianhthu/Documents/Code/github/lab-3-section-1-9-nmat2010/Build/part1_q2'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CE4, symSize: 0x1C0 }
+  - { offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CE4, symSize: 0x1C0 }
+...
