@@ -29,6 +29,7 @@ int main()
         n++;
     }
 
+    // the final result is the last order sum but is not exactly equal to the result in the test case (the result in the test case is rounded up)
     printf("Final result: %.6f\n", sum);
     return 0;
 }
